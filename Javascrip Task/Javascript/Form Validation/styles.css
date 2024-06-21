@@ -1,0 +1,84 @@
+﻿html{
+    font-family:Arial;
+}
+
+.error {
+    color: red;
+    font-size: 0.8em;
+}
+
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+}
+
+.container {
+    display: block;
+    width: 50%;
+    margin: 0% 25% 0;
+}
+
+.container-text{
+    padding: 0%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.input-form{
+    align-items: center;
+}
+
+p{
+    font-weight:bold;
+}
+
+input[type=radio] {
+    margin: 5px 10px 20px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+
+label{
+    font-weight:bold;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}

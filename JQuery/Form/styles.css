@@ -1,0 +1,52 @@
+﻿.container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+input[type="text"],
+textarea,
+select {
+    
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+textarea {
+    min-height: 100px;
+    resize: none;
+}
+
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    margin-left:8px;
+    padding: 10px 50px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.buttons {
+    display:inline;
+}

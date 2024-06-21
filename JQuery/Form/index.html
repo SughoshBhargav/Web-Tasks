@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <link href="styles.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script src="script.js" type="text/javascript"></script>
+
+    <title>Form</title>
+</head>
+<body>
+    <div class="container">
+        <form>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" value="" /><br />
+            <label for="comment">Comment</label>
+            <textarea id="comment" name="comment"></textarea><br />
+            <label for="city">City</label>
+            <select name="city" id="city">
+                <option value="london">London</option>
+                <option value="india">India</option>
+                <option value="brazil">Brazil</option>
+            </select>
+            <div class="buttons">
+                <input id="insert-el" type="submit" name="submit" value="Insert Data" />
+
+                <input id="input-el" type="submit" name="submit" value="Display Data" />
+            </div>
+        </form>
+    </div>
+</body>
+</html>

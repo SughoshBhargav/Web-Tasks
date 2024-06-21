@@ -1,0 +1,36 @@
+﻿* {
+    
+    border: 2px solid #7f8274;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.infodiv {
+   
+    text-align:center;
+    padding:10px;
+    border: none;
+    padding: 0; 
+    color:black;
+    font-weight:bold;
+}
+
+body {
+    margin: 10px;
+}
+
+.red{
+    color:red;
+
+}
+.green{
+    color: green;
+}
+
+.black{
+    color:black;
+}
+
+.orange {
+    color: orange;
+}
