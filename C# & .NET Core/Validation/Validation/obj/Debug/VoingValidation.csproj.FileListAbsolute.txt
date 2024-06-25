@@ -1,0 +1,16 @@
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\bin\Debug\Validation.exe.config
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\bin\Debug\Validation.exe
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\bin\Debug\Validation.pdb
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\obj\Debug\VoingValidation.csproj.AssemblyReference.cache
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\obj\Debug\VoingValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\obj\Debug\VoingValidation.csproj.CoreCompileInputs.cache
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\obj\Debug\Validation.exe
+C:\Users\Sughosha.sv\source\Training\Validation\Validation\obj\Debug\Validation.pdb
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\bin\Debug\Validation.exe.config
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\bin\Debug\Validation.exe
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\bin\Debug\Validation.pdb
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\obj\Debug\VoingValidation.csproj.AssemblyReference.cache
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\obj\Debug\VoingValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\obj\Debug\VoingValidation.csproj.CoreCompileInputs.cache
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\obj\Debug\Validation.exe
+C:\Users\Sughosha.sv\source\Training\.NET\Validation\Validation\obj\Debug\Validation.pdb
